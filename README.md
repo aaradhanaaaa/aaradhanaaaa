@@ -5,7 +5,7 @@
 ---
 
 ## 💼 About Me
-- 🎓 2nd Year ECE Student  
+- 🎓 3rd Year ECE Student  
 - 💻 Focused on **Frontend Development & UI/UX**  
 - 🚀 Building real-world projects like **Student Sphere (LinkedIn Clone)**  
 - 🌱 Currently learning **Backend (PHP, MySQL) & AI Integration**  

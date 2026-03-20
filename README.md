@@ -1,51 +1,68 @@
-# 💫 About Me:
-🚀 What I do  
-Build clean, scalable, user-focused web products with strong UI/UX.
-
-🤝 Open to  
-Hackathons, internships, and real-world impactful projects.
-
-🌱 Learning  
-Frontend development, backend (PHP, MySQL), and AI integrations.
-
-💬 Ask me about  
-Web dev, projects, and UI design.
-
-⚡ Fun fact  
-I love building projects like Student Sphere & WhatsApp clone.
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Aradhana Rani</h1>
+<h3 align="center">Frontend Developer | ECE Student | Open to Internships 🚀</h3>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aradhana-rani-174416295/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/_aradhana_karn_?igsh=NmhyeTFrMTA4OWs1)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:aradhana.rani.738@gmail.com)
+## 💼 About Me
+- 🎓 2nd Year ECE Student  
+- 💻 Focused on **Frontend Development & UI/UX**  
+- 🚀 Building real-world projects like **Student Sphere (LinkedIn Clone)**  
+- 🌱 Currently learning **Backend (PHP, MySQL) & AI Integration**  
+- 🎯 Goal: Become a **Full Stack Developer**  
 
 ---
 
-## 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Programming:** Python, PHP  
+- **Database:** MySQL  
+- **Tools:** VS Code, Git, GitHub  
 
 ---
 
-## 📊 GitHub Stats:
-![Aradhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhanaaaa&show_icons=true&theme=tokyonight)
+## 🚀 Projects
+- 🔹 **Student Sphere**  
+  → LinkedIn-like platform for students (profile + networking UI)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaradhanaaaa&layout=compact&theme=tokyonight)
+- 🔹 **WhatsApp Clone**  
+  → Chat UI with modern features (dark mode, typing indicator)
+
+- 🔹 **Resume Builder**  
+  → Create & download resume with live preview  
+
+- 🔹 **Landing Page & Calculator**  
+  → Practice projects focusing on UI & responsiveness  
 
 ---
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aaradhanaaaa&show_icons=true&theme=default" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaradhanaaaa&layout=compact&theme=default" height="150"/>
+</p>
 
 ---
 
-## 🔝 Projects
-- Student Sphere  
-- WhatsApp Clone  
-- Resume Builder  
+## 📌 What I’m Improving
+- 📈 Increasing GitHub activity & consistency  
+- ⚡ Building more **full-stack projects**  
+- 🧠 Learning **system design basics**  
+
+---
+
+## 🤝 Open To
+- Internships (Frontend / Web Dev)  
+- Hackathons & team projects  
+- Open-source contributions  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: aradhana.rani.738@gmail.com
+- 💼 LinkedIn: https://github.com/aaradhanaaaa             
+
+---
+
+## ⚡ Note
+I believe in **learning by building** and continuously improving through real-world projects.

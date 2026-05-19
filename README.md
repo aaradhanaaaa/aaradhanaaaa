@@ -60,7 +60,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: aradhana.rani.738@gmail.com
-- 💼 LinkedIn: https://github.com/aaradhanaaaa             
+- 💼 LinkedIn: (https://www.linkedin.com/in/aradhana-rani-174416295/)          
 
 ---
 
